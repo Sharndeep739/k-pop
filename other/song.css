@@ -1,0 +1,261 @@
+body{
+    background-image: url("bacgrund\ \(8\).jpg");
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+*{
+    font-family: cursive;
+    color: white;
+}
+#cont1{
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+#cont2{
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+}
+#cont3{
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+#cont4{
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+#cont5{
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+#cont6{
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+#box1{
+    height: 150px;
+    width: 150px;
+    background-image: url("appro\ X\ love.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box2{
+    height: 150px;
+    width: 150px;
+    background-image: url("bussiness.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box3{
+    height: 150px;
+    width: 150px;
+    background-image: url("closer.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box4{
+    height: 150px;
+    width: 150px;
+    background-image: url("dimple.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box5{
+    height: 150px;
+    width: 150px;
+    background-image: url("faded\ alan.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box6{
+    height: 150px;
+    width: 150px;
+    background-image: url("gangsta\ kekz.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box7{
+    height: 150px;
+    width: 150px;
+    background-image: url("goosebumps.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box8{
+    height: 150px;
+    width: 150px;
+    background-image: url("greedy\ X\ say\ it.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box9{
+    height: 150px;
+    width: 150px;
+    background-image: url("harley\ in\ hawail.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box10{
+    height: 150px;
+    width: 150px;
+    background-image: url("lgnite\ alan\ walker.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box11{
+    height: 150px;
+    width: 150px;
+    background-image: url("let\ me\ down\ song.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box12{
+    height: 150px;
+    width: 150px;
+    background-image: url("money\ on\ the\ dash\ song.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box13{
+    height: 150px;
+    width: 150px;
+    background-image: url("one\ dance\ song.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box14{
+    height: 150px;
+    width: 150px;
+    background-image: url("on\ the\ floor\ drill\ song.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box15{
+    height: 150px;
+    width: 150px;
+    background-image: url("slow\ motion\ english\ song.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box16{
+    height: 150px;
+    width: 150px;
+    background-image: url("shape\ of\ you\ x\ mann\ mera\ song.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box17{
+    height: 150px;
+    width: 150px;
+    background-image: url("under\ the\ influence\ song.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+#box18{
+    height: 150px;
+    width: 150px;
+    background-image: url("unholy\ song.jpg");
+    background-size: cover;
+    border-radius: 5%;
+}
+
+/*audio file*/
+#cont7{
+    height: 250px;
+    width: 900px;
+    position: absolute;
+    top: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: space-around;
+    
+}
+#cont8{
+    height: 250px;
+    width: 900px;
+    position: absolute;
+    top: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: space-around;
+    
+}
+#cont9{
+    height: 250px;
+    width: 900px;
+    position: absolute;
+    top: 700px;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: space-around;
+    
+}
+#cont10{
+    height: 250px;
+    width: 900px;
+    position: absolute;
+    top: 1050px;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: space-around;
+    
+}
+#cont11{
+    height: 250px;
+    width: 900px;
+    position: absolute;
+    top: 1380px;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: space-around;
+    
+}
+#cont12{
+    height: 250px;
+    width: 900px;
+    position: absolute;
+    top: 1740px;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: space-around;
+    
+}
+audio{
+    height: 250px;
+    width: 250px;
+}
+audio:hover{
+    filter: drop-shadow(0px 0px 10px rgb(64, 184, 253));
+}

@@ -1,0 +1,358 @@
+/*row 1*/
+a{
+    height: 1px;
+    width: 1px;
+}
+#row1{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 520px;
+    top: 140px;
+    
+}
+#box1{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border-radius: 10%;
+    position: relative;
+    z-index: 3;
+    transition: all 0.10s ease-in ;
+    background-image: url("box\ 1.jpg");
+    background-size: cover;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+    border: 1px solid white;
+}
+#box2{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border-radius: 10%;
+    transform: rotate(15deg);
+    position: relative;
+    z-index: 2;  
+    top: -150px;
+    left: 40px;
+    transition: all 0.10s ease-in;
+    background-image: url("box\ 2.jpg");
+    background-size: cover;
+    border: 1px solid white;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+
+}
+#box3{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    z-index: 1;
+    border-radius: 10%;
+    transform: rotate(-15deg);
+    position: relative;
+    top: -300px;
+    left: -40px;
+    transition: all 0.10s ease-in;
+    background-image: url("box 3.jpg");
+    background-size: cover;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+    border:  1px solid white;
+
+}
+#box1:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+#box2:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+#box3:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+
+/*row 2*/
+
+
+#row2{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 990px;
+    top: -160px;
+    
+}
+#box4{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border-radius: 10%;
+    position: relative;
+    z-index: 3;
+    transition: all 0.10s ease-in ;
+    background-image: url("box\ 4.jpg");
+    background-size: cover;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+    color: white;
+}
+
+#box5{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border-radius: 10%;
+    transform: rotate(15deg);
+    position: relative;
+    z-index: 2;  
+    top: -150px;
+    left: 40px;
+    transition: all 0.10s ease-in;
+    background-image: url("box\ 5.jpg");
+    background-size: cover;
+    border: 1px solid white;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+
+}
+#box6{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    z-index: 1;
+    border-radius: 10%;
+    transform: rotate(-15deg);
+    position: relative;
+    top: -300px;
+    left: -40px;
+    transition: all 0.10s ease-in;
+    background-image: url("box\ 6.jpg");
+    background-size: cover;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+
+}
+#box4:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+#box5:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+#box6:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+
+/*row 3*/
+#row3{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 520px;
+    top: -50px;
+    
+}
+#box7{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border-radius: 10%;
+    position: relative;
+    z-index: 3;
+    transition: all 0.10s ease-in ;
+    background-image: url("box\ 7.jpg");
+    background-size: cover;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+    color: white;
+}
+
+#box8{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border-radius: 10%;
+    transform: rotate(15deg);
+    position: relative;
+    z-index: 2;  
+    top: -150px;
+    left: 40px;
+    transition: all 0.10s ease-in;
+    background-image: url("box\ 8.jpg");
+    background-size: cover;
+    border: 1px solid white;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+    color: black;
+
+}
+#box9{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    z-index: 1;
+    border-radius: 10%;
+    transform: rotate(-15deg);
+    position: relative;
+    top: -300px;
+    left: -40px;
+    transition: all 0.10s ease-in;
+    background-image: url("box\ 9.jpg");
+    background-size: cover;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+
+}
+#box7:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+#box8:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+#box9:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+/*row 4 */
+#row4{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 1000px;
+    top: -350px;
+    
+}
+#box10{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border-radius: 10%;
+    position: relative;
+    z-index: 3;
+    transition: all 0.10s ease-in ;
+    background-image: url("box\ 10.jpg");
+    background-size: cover;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+    color: white;
+}
+
+#box11{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border-radius: 10%;
+    transform: rotate(15deg);
+    position: relative;
+    z-index: 2;  
+    top: -150px;
+    left: 40px;
+    transition: all 0.10s ease-in;
+    background-image: url("box\ 11.jpg");
+    background-size: cover;
+    border: 1px solid white;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+    color: black;
+
+}
+#box12{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    z-index: 1;
+    border-radius: 10%;
+    transform: rotate(-15deg);
+    position: relative;
+    top: -300px;
+    left: -40px;
+    transition: all 0.10s ease-in;
+    background-image: url("box\ 12.jpg");
+    background-size: cover;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    text-align: center;
+
+}
+#box10:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+#box11:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+#box12:hover{
+    transform: scale(1.20);
+    z-index: 4;
+    filter: drop-shadow(0px 0px 12px black);
+}
+p{
+    height: 100px;
+    width: 100px;
+    font-size: 30px;
+    position: absolute;
+    top: 365px;
+    left: 800px;
+}
